@@ -1,0 +1,14 @@
+*.swp
+.DS_Store
+logs/*
+compile/linux
+compile/unix
+fugu
+.env
+config/conf.json
+vendor
+.idea
+test
+.vscode
+pkg
+__debug_bin
